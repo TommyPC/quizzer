@@ -1,0 +1,15 @@
+{
+  "name": "quizzer",
+  "version": "1.0.0",
+  "description": "A simple quiz application",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": ["quiz", "education", "learning"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+} 
